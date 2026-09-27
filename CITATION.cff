@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "wiener-timing: Wiener deconvolution for astronomical timing analysis"
+authors:
+  - family-names: "Kırmızıbayrak"
+    given-names: "Demet"
+    affiliation: "California Institute of Technology"
+  - family-names: "Heyl"
+    given-names: "Jeremy"
+    affiliation: "University of British Columbia"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/demetspace/wiener-timing"
+preferred-citation:
+  type: article
+  title: "Estimating Astronomical Time Lags and Response with Wiener Deconvolution"
+  authors:
+    - family-names: "Kırmızıbayrak"
+      given-names: "Demet"
+    - family-names: "Heyl"
+      given-names: "Jeremy"
+  journal: "Monthly Notices of the Royal Astronomical Society"
+  year: 2026
+  status: submitted
